@@ -24,3 +24,10 @@ a.nav-link {
     background-color: green;
     border: darkgreen;
 }
+
+#site-header {
+  background: url('../img/jtree.jpg') 0 0 repeat-x;
+  color: white;
+  padding: 40px 0 40px 0px;
+  text-align: center;
+}
